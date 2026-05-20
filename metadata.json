@@ -1,0 +1,6 @@
+{
+  "name": "Rihla",
+  "description": "Ancient Egypt Personal Travel Companion & Guided Explorations",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
